@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+sometimes i create stuff
+sometimes i don't
+both stuff hold very little value
+
 <!--
 **DoubleA4/DoubleA4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
