@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - sometimes i create stuff
-- rest of the time, i'm procrastinating
+- rest of the time i'm procrastinating
 
 <!--
 **DoubleA4/DoubleA4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
